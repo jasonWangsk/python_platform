@@ -1,0 +1,6 @@
+下载npm包管理器需要vpn？如果失败可以直接解压node_modules？
+
+pip install https://github.com/darklow/django-suit/tarball/v2
+python3.6 这一步出错“cannot import name etree ” 可能版本不带etree，执行下一步 应该可以
+pip install lxml-3.8.0-cp36-cp36m-win32.whl
+
